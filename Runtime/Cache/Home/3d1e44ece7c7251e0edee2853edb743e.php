@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>页面加载ok！
